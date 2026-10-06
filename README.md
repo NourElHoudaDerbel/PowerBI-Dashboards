@@ -21,8 +21,7 @@ These projects showcase end-to-end data analytics workflows—from data extracti
 * **Files:** `Sales Dashboard.pbix` | `Sports Products Sales Data - USA.pbix`
 * **Highlights:** Tracks sales performance across region, category, and time periods using interactive time-intelligence DAX metrics.
 * **Visual Overview:**
-
-![Sales Dashboard Screenshot](./assets/Sales Dashboard.png)
+<img width="1301" height="717" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/bed3cb9f-5ab4-413c-aac5-27bc067b7e86" />
 
 ---
 
@@ -31,7 +30,7 @@ These projects showcase end-to-end data analytics workflows—from data extracti
 * **Highlights:** Regional performance breakdown leveraging Adventure Works sales data, featuring heatmaps and interactive map visuals.
 * **Visual Overview:**
 
-![Sales Dashboard Screenshot](./assets/Regional Sales Mapping.png)
+<img width="1165" height="621" alt="Regional Sales Mapping" src="https://github.com/user-attachments/assets/689bae0d-a454-44d7-a48c-8f0f2b364a2e" />
 
 ---
 
@@ -40,7 +39,7 @@ These projects showcase end-to-end data analytics workflows—from data extracti
 * **Highlights:** Utilizing built-in AI capabilities such as Key Influencers and Decomposition Trees to discover underlying drivers in business metrics.
 * **Visual Overview:**
 
-![Sales Dashboard Screenshot](./assets/Leveraging AI features in Power BI.png)
+<img width="1276" height="732" alt="Leveraging AI features in Power BI" src="https://github.com/user-attachments/assets/cb78c7ef-8732-4ffa-bc9a-cf4a4543cf04" />
 
 ---
 
@@ -49,7 +48,7 @@ These projects showcase end-to-end data analytics workflows—from data extracti
 * **Highlights:** Analytical dashboard tracking real-world trends, pandemic spread, and comparative statistical metrics globally and locally in Tunisia.
 * **Visual Overview:**
 
-![Sales Dashboard Screenshot](./assets/Leveraging AI features in Power BI.png)
+<img width="1142" height="632" alt="Public Health 2021" src="https://github.com/user-attachments/assets/ee9b4c25-aeeb-474a-bf60-6de7b799ff8b" />
 
 ---
 
@@ -58,7 +57,8 @@ These projects showcase end-to-end data analytics workflows—from data extracti
 * **Highlights:** Statistical reporting analyzing public education datasets to evaluate distribution, capacity, and key demographic metrics.
 * **Visual Overview:**
 
-![Sales Dashboard Screenshot](./assets/Public Health 2021.png)
+<img width="1162" height="650" alt="Schools in Australia 2018" src="https://github.com/user-attachments/assets/b4f58705-821a-4972-a30d-07bef7602c7d" />
+
 
 ---
 
